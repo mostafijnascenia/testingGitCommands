@@ -8,5 +8,6 @@
 
 echo "<pre>";
 print_r([1, 1, 1]);
+print_r([2, 2, 2]);
 echo "</pre>";
 die();
