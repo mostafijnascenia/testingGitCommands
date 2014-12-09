@@ -1,1 +1,1 @@
-I am testing some git commands throughout this project 
+Testing some git commands throughout this project 
