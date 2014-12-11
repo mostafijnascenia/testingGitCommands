@@ -9,5 +9,6 @@
 echo "<pre>";
 print_r([1, 1, 1]);
 print_r([2, 2, 2]);
+print_r([3, 3, 3]);
 echo "</pre>";
 die();
